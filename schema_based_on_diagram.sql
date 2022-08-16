@@ -39,6 +39,13 @@ CREATE TABLE invoice_items(
     PRIMARY KEY(id)
 );
 
+CREATE TABLE histories_treatment(
+    id INT GENERATED ALWAYS AS IDENTITY,
+    treatment_id INT,
+    medical_history_id INT,
+    PRIMARY KEY(medical_history_id, treatment_id)
+);
+
 ALTER TABLE
     invoice_items
 ADD
@@ -63,3 +70,13 @@ ALTER TABLE
     invoice_items
 ADD
     CONSTRAINT fk_invoices_invoice_items FOREIGN KEY (invoice_id) REFERENCES invoices(id);
+
+ALTER TABLE
+    histories_treatment
+ADD
+    CONSTRAINT fk_treatment_id FOREIGN KEY (treatment_id) REFERENCES treatments(id);
+
+ALTER TABLE
+    histories_treatment
+ADD
+    CONSTRAINT fk_medical_histories FOREIGN KEY (medical_histories_id) REFERENCES medical_histories(id);
