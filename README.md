@@ -25,7 +25,8 @@ Authors
 👤 **Daf Azzolina**
 
 - This is My **GitHub**: [![@Daf98](https://img.shields.io/github/followers/Daf98?label=Daf98&style=social)](https://github.com/Daf98)
-- This is My **LinkedIn**: [![@dafne-azzolina](https://img.shields.io/twitter/follow/omarramoun?label=Daf98&style=social)](https://www.linkedin.com/in/dafne-azzolina/)
+- This is My **LinkedIn**: [![@dafne-azzolina](https://img.shields.io/twitter/follow/omarramoun?label=Daf98&style=social)](https://twitter.com/dafne_azzolina
+)
 )
 
 ## 🤝 Contributing
