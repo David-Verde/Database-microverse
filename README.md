@@ -5,7 +5,7 @@
 
 
 ## Getting Started
-![Sin título](https://user-images.githubusercontent.com/99683363/184953672-29361040-f650-4ff6-bdaf-2ea5fbc01de1.png)
+![image](https://user-images.githubusercontent.com/99683363/184962612-1ec93388-1a0a-4436-8634-6de38e698125.png)
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
