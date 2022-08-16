@@ -5,6 +5,7 @@
 
 
 ## Getting Started
+![Sin título](https://user-images.githubusercontent.com/99683363/184953672-29361040-f650-4ff6-bdaf-2ea5fbc01de1.png)
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
@@ -15,17 +16,17 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+Authors
+👤 **David Verde Alvarez**
+- This is My **GitHub**: [![@David-Verde](https://img.shields.io/github/followers/David-Verde?label=David&style=social)](https://github.com/David-Verde)
+- This is My **Twitter**: [![@UnyieldingOne](https://img.shields.io/twitter/follow/omarramoun?label=David16&style=social)](https://twitter.com/UnyieldingOne)
+)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Daf Azzolina**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- This is My **GitHub**: [![@Daf98](https://img.shields.io/github/followers/omarramoun?label=Daf98&style=social)](https://github.com/Daf98)
+- This is My **LinkedIn**: [![@omarramoun](https://img.shields.io/twitter/follow/omarramoun?label=Daf98&style=social)](https://www.linkedin.com/in/andres-garzon-maldonado-951a2a180/)
+)
 
 ## 🤝 Contributing
 
